@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/sayyidhaidar/Developer/Cakrawala/semester-2/subject-data-structure/tugas-bts",
+      "program": "/Users/sayyidhaidar/Developer/Cakrawala/semester-2/subject-data-structure/tugas-bts/build/Debug/outDebug"
+    }
+  ]
+}
